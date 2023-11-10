@@ -1,0 +1,15 @@
+{
+    "fellow": {
+        "add": "Ajouter un compagnon",
+        "remove": "Enlever ce compagnon"
+    },
+    "sacType": {
+        "mine": "Mine de golem",
+        "sandtopia": "Pèlerinage à Sandtopia",
+        "perso": "Objectif personnalisé"
+    },
+    "obj": {
+        "add": "Ajouter un objectif",
+        "remove": "Enlever cet objectif"
+    }
+}
